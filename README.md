@@ -1,4 +1,4 @@
-##Installation steps for News Api:
+## Installation steps for News Api:
 1. Running the docker using below command
 `docker-compose up --build` for first use it will install all
 dependencies and create docker container for this project
@@ -13,7 +13,7 @@ dependencies and create docker container for this project
 
 
 ### This is the link for github: 
-[Github](https://link-url-here.org)
+[Github](git@github.com:ShamsiddinToshmirzaev/News-Api.git)
 
 
 ### This is the link for heroku:
