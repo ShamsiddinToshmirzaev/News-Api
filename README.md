@@ -13,11 +13,8 @@ dependencies and create docker container for this project
 
 
 ### This is the link for github: 
-[Github](git@github.com:ShamsiddinToshmirzaev/News-Api.git)
+[Github](https://github.com/ShamsiddinToshmirzaev/News-Api.git)
 
-
-### This is the link for heroku:
-[Heroku](https://link-url-here.org)
 
 ### This is the link for postman documentation
 [Postman](https://documenter.getpostman.com/view/10331149/UVsTphSs)
